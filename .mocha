@@ -1,0 +1,1 @@
+--reporter spec utils/*.spec.js lib/*.spec.js
